@@ -12,3 +12,7 @@ Package :
 
 Run app :
 - flutter run -d chrome
+
+login :
+- email : test
+- password : test123
